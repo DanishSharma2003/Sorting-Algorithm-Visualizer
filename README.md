@@ -16,8 +16,8 @@ Click "Reset" to generate a new random array.
 Feel free to experiment and learn about different sorting techniques!
 
 **Requirements**-
-Python 3.x
-Tkinter
+Python 3.x,
+Tkinter,
 Pillow
 
 **Instructions**-
